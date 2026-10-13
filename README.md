@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Johnny Depp!</h1><p align="center">
+<h1 align="center">👋 hey, I'm Johnny Depp!</h1><p align="center">
   <strong>Actor | Creative Mind | Finance Enthusiast | Lifelong Learner</strong>
 </p><p align="center">
   Welcome to my GitHub profile! I'm passionate about creativity, personal growth, financial knowledge, and exploring new opportunities in the digital world.
