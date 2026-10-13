@@ -6,11 +6,13 @@ Hi there, I'm [Johnny Depp] 👋
 <p align="center">
 <a href="https://github.com/[Johnnydepp01-arch]">{=html} <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile">{=html} </a>{=html}
 </p>
+
 👨‍💻 About Me
 🌱 I'm currently learning [investment].
 🔭 I'm working on [profits].
 💡 I'm interested in [website].
 🤝 I'm open to collaborating on [investment].
+
 📫 Reach me at johnnydepp04441@gmail.com
 🛠️ Skills & Tools
 Add the languages, tools, or platforms you actually use.
