@@ -184,6 +184,7 @@ I'm excited to see how these goals develop and what new opportunities the future
   </a>
 
 </p>📧 Email: JohnnyDepp04441@gmail.com
+
 reach me at: JohnnyDepp04441@gmail.com
 
 🐙 GitHub Profile: https://github.com/johnnydepp01-arch
