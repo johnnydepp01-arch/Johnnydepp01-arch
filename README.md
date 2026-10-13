@@ -183,8 +183,8 @@ I'm excited to see how these goals develop and what new opportunities the future
     <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
   </a>
 
-</p>📧 Email: "JohnnyDepp04441@gmail.com" 
-(mailto:JohnnyDepp04441@gmail.com)
+</p>📧 Email: JohnnyDepp04441@gmail.com
+reach me at: JohnnyDepp04441@gmail.com
 
 🐙 GitHub Profile: https://github.com/johnnydepp01-arch
 
