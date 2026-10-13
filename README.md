@@ -11,7 +11,7 @@ Hi there, I'm [Johnny Depp] 👋
 🔭 I'm working on [profits].
 💡 I'm interested in [website].
 🤝 I'm open to collaborating on [investment].
-📫 Reach me at [Johnnydepp75332@gmail.com].
+📫 Reach me at Johnnydepp75332@gmail.com
 🛠️ Skills & Tools
 Add the languages, tools, or platforms you actually use.
 [Investment] · [investing] · [money] · [income]
